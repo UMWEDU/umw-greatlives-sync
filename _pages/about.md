@@ -1,12 +1,10 @@
 ---
 ID: 59693
-post_title: >
-  William B. Crawley Great Lives Lecture
-  Series
+post_title: About The Series
 author: Shelley Keith
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/greatlives/about/
+permalink: http://www.umw.edu/greatlives/about/
 published: true
 post_date: 2015-08-05 14:37:51
 ---

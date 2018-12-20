@@ -4,7 +4,7 @@ post_title: Support Great Lives
 author: UMW
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/greatlives/support/
+permalink: http://www.umw.edu/greatlives/support/
 published: true
 post_date: 2014-10-30 14:51:32
 ---

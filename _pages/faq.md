@@ -4,7 +4,7 @@ post_title: Frequently Asked Questions
 author: UMW
 post_excerpt: ""
 layout: page
-permalink: https://www.umw.edu/greatlives/faq/
+permalink: http://www.umw.edu/greatlives/faq/
 published: true
 post_date: 2014-10-30 15:05:28
 ---

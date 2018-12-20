@@ -1,8 +1,8 @@
 ---
 ID: 581
 post_title: >
-  Spring 2019 Lecture Series Begins
-  January 15th
+  William B. Crawley Great Lives Lecture
+  Series
 author: UMW
 post_excerpt: ""
 layout: page

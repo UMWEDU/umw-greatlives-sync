@@ -12,7 +12,7 @@ post_date: 2016-10-14 10:17:47
 <strong>2019 Series Parking
 </strong>January 3rd, 2019
 
-As we kick off the 2019 Great Lives series, we'd like to remind guests of available parking on campus:
+As we kick off the 2019 Great Lives series, we'd like to remind guests of the new parking regulations on campus:
 <ul>
  	<li>The parking lot for George Washington Hall (number 22 on the map) and spaces along Double Drive are available for guests. A handful of spaces along Double Drive will be reserved for the speaker and sponsors or guests each evening.</li>
  	<li><strong>ALL </strong>faculty and staff spaces are available for guest parking <strong>beginning at 5:00 PM</strong>. Faculty and staff lots are identified on the map with a dark blue box and parking symbol.</li>

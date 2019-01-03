@@ -15,7 +15,14 @@ Fortunately, this is a free lecture series that the University offers to the pub
 <h2>Do I need to buy a ticket?</h2>
 Tickets are not necessary to attend the lectures and seating is on a first come, first served basis.
 <h2>Where can I park?</h2>
-Parking is available for Great Lives attendees in the <a href="https://www.google.com/maps/place/UMW+Visitor+Parking/@38.3007801,-77.4740404,16z/data=!4m5!1m2!2m1!1sUniversity+of+Mary+Washington+George+Washington+Hall+Parking!3m1!1s0x89b6c1f6c7341af9:0xbc2a767a56501e76">George Washington Hall parking lot</a>, which is the first lot on the left as you enter Double Drive. Parking is first come, first served.  Please reference the <a href="http://www.umw.edu/?search-choice=google&amp;s=campus+map">Fredericksburg UMW campus map</a>.  Dodd Auditorium is located in building #22.
+Please reference the <a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus.jpg" target="_blank" rel="noopener">UMW Campus Map</a> for parking locations:
+<ul>
+ 	<li>The parking lot for George Washington Hall and Dodd Auditorium (number 22 on the map) and guest spaces along Double Drive are available for guests. A handful of spaces along Double Drive will be reserved for the speaker and sponsors or guests each evening.</li>
+ 	<li><strong>ALL </strong>faculty and staff spaces are available for guest parking <strong>beginning at 5:00 PM</strong>. Faculty and staff lots are identified on the map with a dark blue box and parking symbol.</li>
+ 	<li>Residential streets adjacent to campus, including College Avenue and residential streets <strong>open for community parking at 7:00 PM</strong> on weekdays.</li>
+ 	<li>The UMW parking deck (number 40 on the map) is available, but a far walk from George Washington Hall</li>
+ 	<li>Guests should be prepared for possible uneven surfaces as they walk. Consider using a small flashlight or the flashlight function on a cell phone as a guide.</li>
+</ul>
 <h2>Are the lectures videotaped and available for viewing?</h2>
 High-definition videos of the lectures are available five weeks after the live presentation under <a href="http://www.umw.edu/greatlives/archives/">Archived Lectures</a>.
 <h2>What constitutes a “Great” life?</h2>

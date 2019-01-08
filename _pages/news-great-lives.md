@@ -16,7 +16,7 @@ As we kick off the 2019 Great Lives series, we'd like to remind guests of the pa
 <ul>
  	<li>The parking lot for George Washington Hall (number 22 on the map) and spaces along Double Drive are available for guests. A handful of spaces along outbound Double Drive will be reserved for the speaker, sponsor and busses.</li>
  	<li><strong>ALL </strong>faculty and staff spaces are available for guest parking <strong>beginning at 5:00 PM</strong>. Faculty and staff lots are identified on the map with a dark blue box and parking symbol.</li>
- 	<li>Residential streets adjacent to campus, including College Avenue and residential streets <strong>open for community parking at 7:00 PM</strong> on weekdays.</li>
+ 	<li>Residential streets adjacent to campus, including College Avenue are now <strong>open for community parking beginning at 7:00 PM</strong> on weekdays.</li>
  	<li>Visitor  parking in the UMW parking deck (number 40 on the map) is available, but prepare for a significant walk  to reach George Washington Hall.</li>
  	<li>Guests should be prepared for possible uneven surfaces as they walk from parking to the auditorium. Consider using a small flashlight or the flashlight function on a cell phone as a guide.</li>
 </ul>

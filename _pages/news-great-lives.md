@@ -13,7 +13,7 @@ post_date: 2016-10-14 10:17:47
 
 April 8th, 2019
 
-The University of Mary Washington met its goal of 3,500 gifts on Giving Day, March 25th, all thanks to our generous donors.
+The University of Mary Washington met its goal of 3,500 gifts on Giving Day, March 19th, all thanks to our generous donors.
 
 Great Lives raised a total of $14,311, far surpassing our expectations. We are incredibly lucky to have such dedicated patrons, whose generosity continues to make Pulitzer Prize winning authors and noted historians available to the Fredericksburg community.
 

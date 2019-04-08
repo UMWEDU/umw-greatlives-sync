@@ -9,6 +9,18 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
+<strong>Great Lives Raised Over $14,000 on #MaryWashDay</strong>
+
+April 8th, 2019
+
+The University of Mary Washington met its goal of 3,500 gifts on Giving Day, March 25th, all thanks to our generous donors.
+
+Great Lives raised a total of $14,311, far surpassing our expectations. We are incredibly lucky to have such dedicated patrons, whose generosity continues to make Pulitzer Prize winning authors and noted historians available to the Fredericksburg community.
+
+From the team at Great Lives: A sincere thank you for all you do to support the series!
+
+<a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/04/Thank-You-Great-Lives-Class.jpg"><img class="aligncenter wp-image-60285" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/04/Thank-You-Great-Lives-Class-1024x683.jpg" alt="Thank You from Great Lives " width="500" height="333" /></a>
+
 <strong>2019 Series Parking
 </strong>January 3rd, 2019
 
@@ -20,6 +32,6 @@ As we kick off the 2019 Great Lives series, we'd like to remind guests of the pa
  	<li>Visitor  parking in the UMW parking deck (number 40 on the map) is available, but prepare for a significant walk  to reach George Washington Hall.</li>
  	<li>Guests should be prepared for possible uneven surfaces as they walk from parking to the auditorium. Consider using a small flashlight or the flashlight function on a cell phone as a guide.</li>
 </ul>
-<a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus.jpg" target="_blank" rel="noopener"><img id="longdesc-return-60253" class="alignnone wp-image-60253 size-page-feature-uncropped" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus-1140x726.jpg" alt="Map of UMW Campus" width="1100" height="701" longdesc="http://www.umw.edu/greatlives?longdesc=60253&amp;referrer=59819" /></a>
+<a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus.jpg" target="_blank" rel="noopener noreferrer"><img id="longdesc-return-60253" class="alignnone wp-image-60253 size-page-feature-uncropped" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus-1140x726.jpg" alt="Map of UMW Campus" width="1100" height="701" longdesc="http://www.umw.edu/greatlives?longdesc=60253&amp;referrer=59819" /></a>
 
 Please contact Ali Gauch Hieber, Coordinator of Community Events at 540-654-1276 with questions.

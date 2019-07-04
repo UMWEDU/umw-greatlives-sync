@@ -15,6 +15,4 @@ This series is open to the public free of charge and no admission tickets are 
 In partnership with the University Bookstore, selected titles related to the topic are available for purchase in the Dodd foyer the night of the lecture. Additional suggested readings related to the Great Lives topics are available at the <a href="http://www.librarypoint.org/greatlives" target="_blank" rel="noopener noreferrer">Central Rappahannock Regional Library</a>
 
 For further information, contact the <a href="http://president.umw.edu/events/">Office of University Events and Conferencing</a> information line at 540-654-1065.
-
-&nbsp;
 <h2 style="text-align: center"><strong>The 2020 Great Lives season is coming soon! </strong></h2>

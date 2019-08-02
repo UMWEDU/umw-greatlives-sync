@@ -32,7 +32,7 @@ Jack Bales is the longtime Reference and Humanities Librarian at UMW’s Simpson
 <h2 style="clear: both">Support Staff</h2>
 [caption id="attachment_59921" align="alignright" width="141"]<a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2017/01/12179214_10206815208112141_787973352_n.jpg"><img class="wp-image-59921" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2017/01/12179214_10206815208112141_787973352_n-234x300.jpg" width="141" height="181" /></a> <strong>Kelly Reeder-Lafferty</strong>[/caption]
 
-<span id="0.629089487240637" class="currentHitHighlight">Kelly</span> <span id="0.6950034407819068" class="highlight">Reeder</span>, Program Assistant for Great Lives, graduated from UMW in 2011, earning a Bachelor of Arts, and has been a part of the Great Lives team ever since. A History major, she was the Department of History and American Studies Almont Lindsey Award recipient for superior academic achievement and service to the department. When not helping Dr. Crawley with Great Lives Q&amp;A, she supports the United States Army as an Analyst.
+<span id="0.629089487240637" class="currentHitHighlight">Kelly</span> <span id="0.6950034407819068" class="highlight">Reeder-Lafferty</span>, Program Assistant for Great Lives, graduated from UMW in 2011, earning a Bachelor of Arts, and has been a part of the Great Lives team ever since. A History major, she was the Department of History and American Studies Almont Lindsey Award recipient for superior academic achievement and service to the department. When not helping Dr. Crawley with Great Lives Q&amp;A, she supports the United States Army as an Analyst.
 
 &nbsp;
 

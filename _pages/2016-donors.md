@@ -5,7 +5,7 @@ author: Ali Hieber
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/greatlives/support/donors/2016-donors/
+  http://www.umw.edu/greatlives/support/donors/2016-donors/
 published: true
 post_date: 2017-01-17 11:29:43
 ---

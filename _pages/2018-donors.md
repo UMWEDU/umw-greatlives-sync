@@ -5,7 +5,7 @@ author: mfull2
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/greatlives/support/donors/2018-donors/
+  http://www.umw.edu/greatlives/support/donors/2018-donors/
 published: true
 post_date: 2018-10-16 10:39:47
 ---

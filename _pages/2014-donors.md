@@ -5,7 +5,7 @@ author: Shelley Keith
 post_excerpt: ""
 layout: page
 permalink: >
-  https://www.umw.edu/greatlives/support/donors/2014-donors/
+  http://www.umw.edu/greatlives/support/donors/2014-donors/
 published: true
 post_date: 2015-07-01 14:15:12
 ---

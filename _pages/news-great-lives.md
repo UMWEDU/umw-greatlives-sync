@@ -9,6 +9,12 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
+<strong>COVID-19 March 10, 2020</strong>
+
+As we absorb news about the global outbreak of coronavirus, or COVID-19, we all are experiencing heightened anxiety. Rest assured the University’s Emergency Operations Team is closely monitoring the situation, conferring with other universities, and following guidance from the CDC and the Virginia Department of Health. At this time, we have <strong>no</strong> confirmed cases of COVID-19 among the campus community. As you know, things are fluid and can quickly change. As of now, we will continue with our Great Lives schedule in Dodd Auditorium; however, I would advise you to pay close attention to coronavirus updates on the UMW home page (umw.edu).
+
+&nbsp;
+
 <strong>Great Lives Raised Over $14,000 on #MaryWashDay</strong>
 
 April 8th, 2019

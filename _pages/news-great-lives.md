@@ -9,8 +9,20 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
+<h3><strong>Great Lives lectures have been cancelled through April 6.</strong></h3>
+<div class="site-container">
+<div class="site-inner">
+<div class="wrap">
+<div class="content-sidebar-wrap"><article class="post-59819 page type-page status-publish has-post-thumbnail entry">
+<div class="entry-content">
+
 <strong>COVID-19 Update: March 11, 2020, 5 pm</strong>
 
+</div>
+</article></div>
+</div>
+</div>
+</div>
 Based on the latest guidelines from the Centers for Disease Control and Prevention and the VDH, the University will immediately initiate a series of steps designed to mitigate the risk of transmission. The goal of these efforts is to promote social distancing by minimizing gatherings in which members of the community spend long periods of time in close proximity. We know from public health officials that this step is essential to help slow the spread of the virus in the United States.
 
 All classes and public activities are suspended at the University.  Great Lives lectures have been cancelled through April 6.  The University will continue to monitor the situation and will re-assess and determine if the two remaining lectures scheduled for April 7 and April 14 will be

@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
-<h3><strong>Great Lives lectures have been cancelled through April 6.</strong></h3>
+<h2><strong>Great Lives lectures have been cancelled through April 6.</strong></h2>
 <div class="site-container">
 <div class="site-inner">
 <div class="wrap">

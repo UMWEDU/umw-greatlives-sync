@@ -9,7 +9,17 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
-<strong>COVID-19 March 10, 2020</strong>
+<strong>COVID-19 Update: March 11, 2020, 5 pm</strong>
+
+Based on the latest guidelines from the Centers for Disease Control and Prevention and the VDH, the University will immediately initiate a series of steps designed to mitigate the risk of transmission. The goal of these efforts is to promote social distancing by minimizing gatherings in which members of the community spend long periods of time in close proximity. We know from public health officials that this step is essential to help slow the spread of the virus in the United States.
+
+All classes and public activities are suspended at the University.  Great Lives lectures have been cancelled through April 6.  The University will continue to monitor the situation and will re-assess and determine if the two remaining lectures scheduled for April 7 and April 14 will be
+
+The University will remain open with operations and services continuing with minimal interruptions. Questions about the Great Lives Series may be directed to Ali Hieber via email: <a href="mailto:agauch@umw.edu">agauch@umw.edu</a>  or by phone at (540)654-1276.
+
+&nbsp;
+
+<strong>COVID-19 Update:  March 10, 2020</strong>
 
 As we absorb news about the global outbreak of coronavirus, or COVID-19, we all are experiencing heightened anxiety. Rest assured the University’s Emergency Operations Team is closely monitoring the situation, conferring with other universities, and following guidance from the CDC and the Virginia Department of Health. At this time, we have <strong>no</strong> confirmed cases of COVID-19 among the campus community. As you know, things are fluid and can quickly change. As of now, we will continue with our Great Lives schedule in Dodd Auditorium; however, I would advise you to pay close attention to coronavirus updates on the UMW home page (umw.edu).
 

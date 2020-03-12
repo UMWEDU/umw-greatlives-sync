@@ -23,9 +23,9 @@ post_date: 2016-10-14 10:17:47
 </div>
 </div>
 </div>
-Based on the latest guidelines from the Centers for Disease Control and Prevention and the VDH, the University will immediately initiate a series of steps designed to mitigate the risk of transmission. The goal of these efforts is to promote social distancing by minimizing gatherings in which members of the community spend long periods of time in close proximity. We know from public health officials that this step is essential to help slow the spread of the virus in the United States.
+Based on the latest guidelines from the Centers for Disease Control and Prevention and the Virginia Department of Health, the University will immediately initiate a series of steps designed to mitigate the risk of transmission. The goal of these efforts is to promote social distancing by minimizing gatherings in which members of the community spend long periods of time in close proximity. We know from public health officials that this step is essential to help slow the spread of the virus in the United States.
 
-All classes and public activities are suspended at the University.  Great Lives lectures have been cancelled through April 6.  The University will continue to monitor the situation and will re-assess and determine if the two remaining lectures scheduled for April 7 and April 14 will be
+All classes and public activities are suspended at the University.  Great Lives lectures have been cancelled through April 6.  The University will continue to monitor the situation and will re-assess and determine if the two remaining lectures scheduled for April 7 and April 14 will proceed.
 
 The University will remain open with operations and services continuing with minimal interruptions. Questions about the Great Lives Series may be directed to Ali Hieber via email: <a href="mailto:agauch@umw.edu">agauch@umw.edu</a>  or by phone at (540)654-1276.
 

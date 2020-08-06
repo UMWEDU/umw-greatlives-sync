@@ -16,5 +16,4 @@ On August 11, 2020, the first lecture on the topic of Thomas Jefferson will be p
 
 To join our email list and receive notifications of new programming, please provide your first and last name as well as your email address on the contact us tab on your left.
 
-&nbsp;
-<p style="text-align: center"></p>
+[wpv-view name="season-archive-fall-2020-speaker-column-removed" wpvseason="fall-2020"]

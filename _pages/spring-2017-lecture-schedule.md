@@ -12,5 +12,7 @@ With large in-person gatherings currently prohibited on campus because of the CO
 
 Each lecture will be delivered by UMW Professor Emeritus of History William B. Crawley, who is the founding director of the Great Lives series. This year marks the completion of Professor Crawley’s 50 years on the Mary Washington faculty, during which he has won numerous awards for teaching excellence, focusing largely on political history.
 
+On August 11, 2020, the first lecture on the topic of Thomas Jefferson will be posted for your enjoyment.  Additional lectures will be released every other Tuesday through October 20, 2020.
+
 &nbsp;
 <p style="text-align: center"></p>

@@ -26,7 +26,7 @@ Ali Gauch Hieber returned to the University of Mary Washington in January 2016 a
 
 [caption id="attachment_59906" align="alignleft" width="147"]<a href="https://www.umw.edu/greatlives/wp-content/uploads/sites/8/2016/11/Bales_Jack_2016.jpg"><img class="wp-image-59906" src="https://www.umw.edu/greatlives/wp-content/uploads/sites/8/2016/11/Bales_Jack_2016-240x300.jpg" width="147" height="184" /></a> <strong>Jack Bales</strong>[/caption]
 
-Jack Bales is the longtime Reference and Humanities Librarian at UMW’s Simpson Library and serves as research consultant for the series and for the Great Lives class. The Illinois native received his bachelor’s degree in English from Illinois College and his master’s in library science from the University of Illinois.  Although a librarian by vocation, he is a writer by avocation and is the author of a number of books and articles on his own “great lives,” including authors Horatio Alger, Kenneth Roberts, and Willie Morris.  He has spent the last few years researching the history of the Chicago Cubs and has written articles on the team for <cite>Nine: A Journal of Baseball History and Culture</cite> and the <cite>Baseball Research Journal.</cite>  His book <cite>Before They Were the Cubs: The Early Years of Chicago’s First Professional Baseball Team</cite> was published in 2019.
+Jack Bales, recently retired, Reference and Humanities Librarian at UMW’s Simpson Library serves as research consultant for the series. The Illinois native received his bachelor’s degree in English from Illinois College and his master’s in library science from the University of Illinois. Although a librarian by vocation, he is a writer by avocation and is the author of a number of books and articles on his own “great lives,” including authors Horatio Alger, Kenneth Roberts, and Willie Morris. He has spent the last few years researching the history of the Chicago Cubs and has written articles on the team for <cite>Nine: A Journal of Baseball History and Culture</cite> and the <cite>Baseball Research Journal.</cite> His book <cite>Before They Were the Cubs: The Early Years of Chicago’s First Professional Baseball Team</cite> was published in 2019.
 
 &nbsp;
 <h2 style="clear: both">Support Staff</h2>
@@ -39,9 +39,9 @@ Jack Bales is the longtime Reference and Humanities Librarian at UMW’s Simpson
 <strong> </strong>
 <div style="clear: both">
 
-[caption id="attachment_59805" align="alignleft" width="157"]<img class=" wp-image-59805" src="https://www.umw.edu/greatlives/wp-content/uploads/sites/8/2014/10/MeganFull-150x150.jpg" alt="Megan Full, program assistant for Great Lives" width="157" height="157" /> <strong>Megan Full</strong>[/caption]
+[caption id="attachment_60536" align="alignleft" width="156"]<img class=" wp-image-60536" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/08/KuzemchakHeadShot-274x300.jpg" alt="" width="156" height="171" /> Courtney Kuzemchak[/caption]
 
-Megan Full, Communications Assistant for Great Lives, joined Great Lives in 2016. She graduated from UMW in 2014, earning a Bachelor of Science in Business Administration. In addition to assisting with Great Lives, she works for the United States Marine Corps as a Contract Specialist.
+Courtney Kuzemchak, Communications Assistant for Great Lives, is back with the Great Lives team after previously serving as a student assistant for the program.  Courtney graduated summa cum laude from UMW in 2017 with a Bachelor of Arts in Historic Preservation. In addition to assisting with Great Lives, she supports the Marine Corps Heritage Foundation as an Events Associate at the National Museum of the Marine Corps.
 
 </div>
 &nbsp;

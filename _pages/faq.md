@@ -8,34 +8,17 @@ permalink: http://www.umw.edu/greatlives/faq/
 published: true
 post_date: 2014-10-30 15:05:28
 ---
-<h2>What time do the Great Lives lectures start?</h2>
-The doors to <a href="https://www.google.com/maps/place/Dodd+Auditorium,+University+of+Mary+Washington,+Fredericksburg,+VA+22401/@38.300666,-77.4742532,17z/data=!3m1!4b1!4m2!3m1!1s0x89b6c1f6e91c1fcb:0xd30436a5b77ca7e5">Dodd Auditorium</a>, located in George Washington Hall, open at 6:30 p.m. and the lecture begins at 7:30 p.m.
-<h2>Is there a cost to attend a Great Lives lecture?</h2>
-Fortunately, this is a free lecture series that the University offers to the public and students of the University. Donations are welcome. Gift cards for donations are available in the lobby of Dodd Auditorium. You can also contribute <a href="https://www.applyweb.com/public/contribute?s=umwg&amp;p=1">online</a>.
-<h2>Do I need to buy a ticket?</h2>
-Tickets are not necessary to attend the lectures and seating is on a first come, first served basis.
-<h2>Where can I park?</h2>
-Please reference the <a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2019/01/Map-of-Fredericksburg-Campus.jpg" target="_blank" rel="noopener">UMW Campus Map</a> for parking locations:
-<ul>
- 	<li>The parking lot for George Washington Hall and Dodd Auditorium (number 22 on the map) and guest spaces along Double Drive are available for guests. A handful of spaces going outbound on Double Drive will be reserved for the speaker, sponsors and busses.</li>
- 	<li><strong>ALL </strong>faculty and staff spaces are available for guest parking <strong>beginning at 5:00 PM</strong>. Faculty and staff lots are identified on the map with a dark blue box and parking symbol.</li>
- 	<li>Residential streets adjacent to campus, including College Avenue are <strong>open for community parking beginning at 7:00 PM</strong> on weekdays.</li>
- 	<li>Visitor parking in the UMW parking deck (number 40 on the map) is available, but prepare for a significant walk  to reach George Washington Hall.</li>
- 	<li>Guests should be prepared for possible uneven surfaces as they walk from parking to the auditorium. Consider using a small flashlight or the flashlight function on a cell phone as a guide.</li>
-</ul>
-<h2>Are the lectures videotaped and available for viewing?</h2>
-High-definition videos of the lectures are available five weeks after the live presentation under <a href="http://www.umw.edu/greatlives/archives/">Archived Lectures</a>.
+<h2>What time do the Great " Presidential" Lives lectures start?</h2>
+The fall 2020 mini-series of lectures on American Presidents will be released every other Tuesday through October 20. Each lecture is pre-recorded and available on demand via the media link.  All lectures will be posted through election day and will then transition to the archive file.
 <h2>What constitutes a “Great” life?</h2>
 It is perhaps the most common misconception that “great” equates to “good” or “admirable” in selecting subjects for the Series. The key criteria is not virtue, but rather influence on history or culture in a significant way—for good or (sometimes) ill. (This explains why the Series has occasionally included some fictional characters.)
 <h2>How are subjects chosen?</h2>
 A number of factors are taken into account. The guiding principle is diversity of subject matter—not just in terms of race or gender, but other areas of diversity as well, particularly fields of accomplishment. Thus topics include persons who have gained significant recognition in the areas of politics, military, literature, science, visual arts, music, theatre, sports, and popular culture. An effort is also made to incorporate lectures by the most recent scholars on various topics. As a rule, subjects are not repeated unless considerable time has elapsed between lectures or the second lecture involves a new and/or controversial approach to the topic.
-<h2>Why are all the lectures held on Tuesday or Thursday nights?</h2>
-Great Lives began in 2004 as an academic course—and still is. This fact necessitates scheduling the lectures to coincide with a regular class period, and the 7:30 p.m. Tuesday/Thursday “track” seems the best choice to accommodate both students and the public.
 <h2>How can I be added to the Great Lives mailing list?</h2>
 Please call the <a href="http://president.umw.edu/events/">Office of Events</a> at (540) 654-1065 to let them know that you would like to be added. An oversized postcard of the season is sent in early December.
 
 [gravityform id="2" title="true" description="false" ajax="true"]
 <h2>How can I help support Great Lives?</h2>
 Great Lives is funded by donations. Learn more about <a href="/greatlives/support">supporting Great Lives</a>.
-<h2>What do you do in the case of inclement weather?</h2>
-To check for cancellations due to inclement weather, visit the University's <a href="http://www.umw.edu/advisories/">Campus Advisories page</a>, or the University's Information Line (540-654-2424).
+
+&nbsp;

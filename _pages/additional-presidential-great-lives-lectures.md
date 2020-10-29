@@ -32,7 +32,7 @@ The two presidents Adams have never been examined together, either as mutually s
 <h4 style="text-align: center">*****</h4>
 &nbsp;
 <h3><a href="https://www.umw.edu/greatlives/lecture/james-and-dolley-madison/"><strong>James and Dolley Madison</strong></a></h3>
-<h4>Speaker: David Stewart</h4>
+<h4>Speaker: David O. Stewart</h4>
 <a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/10/Madisons-Gift-David-O-Stewart.jpg"><img class="alignleft wp-image-60580" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/10/Madisons-Gift-David-O-Stewart-197x300.jpg" alt="Madison's Gift by David O. Stewart" width="171" height="260" /></a>To reach his lifelong goal of building a self-governing constitutional republic, Madison blended his remarkable talents with those of five key partners. It was Madison who led the drive for the Constitutional Convention and pressed for an effective new government as his patron George Washington lent the effort legitimacy; Madison who wrote the Federalist Papers with Alexander Hamilton to secure the Constitution’s ratification; Madison who joined Thomas Jefferson to found the nation’s first political party and move the nation toward broad democratic principles; Madison, with James Monroe, who guided the new nation through its first war in 1812, and who delivered the reins of the government safely into the last of the Founders. But it was his partnership with Dolley that allowed Madison to conquer his natural reserve and reach the greatest heights. Their partnership was a love story, one that sustained Madison through his political rise, his presidency, and a fruitful retirement.
 
 [embed]https://vimeo.com/122457870[/embed]

@@ -10,6 +10,7 @@ permalink: http://www.umw.edu/greatlives/
 published: true
 post_date: 2017-10-13 12:00:08
 ---
+&nbsp;
 <p style="text-align: center"><em><b>In Memoriam</b></em></p>
 <em><span style="font-weight: 400">The Great Lives program was saddened by the recent death of Bernard Cohen, 86.</span></em>
 
@@ -18,9 +19,7 @@ post_date: 2017-10-13 12:00:08
 <em><span style="font-weight: 400">In addition to speaking in Great Lives, Mr. Cohen was a staunch supporter of the program, as evidenced both by his financial commitment and by his attendance at lectures. Until declining health prevented it, he and his wife, Rae, along with her twin sister and her husband, were regularly to be found in their customary seats near the front of Dodd Auditorium. </span></em>
 
 <em><span style="font-weight: 400">A man of humane ideals and a life-long advocate for social justice, Mr. Cohen will be missed by many, including the Great Lives team. RIP. </span></em>
-
-_____________________________________________________________
-
+<p style="text-align: center">_______________________________________________</p>
 With large in-person gatherings currently prohibited on campus because of the COVID-19 pandemic, the Great Lives program is offering a mini-series of recorded lectures focusing on several notable Presidents -- an approach that seems particularly appropriate in this presidential election year.
 
 Each lecture will be delivered by UMW Professor Emeritus of History William B. Crawley, who is the founding director of the Great Lives series. This year marks the completion of Professor Crawley’s 50 years on the Mary Washington faculty, during which he has won numerous awards for teaching excellence, focusing largely on political history.

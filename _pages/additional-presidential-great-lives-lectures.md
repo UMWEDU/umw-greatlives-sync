@@ -15,7 +15,7 @@ post_date: 2020-10-29 10:57:53
 
 <a href="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/10/Screen-Shot-2020-08-07-at-4.08.56-PM.png"><img class="wp-image-60577" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/10/Screen-Shot-2020-08-07-at-4.08.56-PM-300x100.png" alt="" width="639" height="213" /></a>
 
-Thank you for joining us for our 2020 Great Presidential Lives mini-series! If you would like to view more Great Lives lectures featuring presidential topics, take a look at the selection below. To view more, visit our <a href="https://www.umw.edu/greatlives/archives/">Archives</a> page.
+Thank you for joining us for our 2020 Great Presidential Lives mini-series! If you would like to view additional Great Lives lectures featuring presidential topics, take a look at the selection below. To view more, visit our <a href="https://www.umw.edu/greatlives/archives/">Archives</a> page.
 
 &nbsp;
 

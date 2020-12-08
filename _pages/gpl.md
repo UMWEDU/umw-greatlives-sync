@@ -18,4 +18,4 @@ Lectures will be pre-recorded observing COVID- 19 health and safety protocols an
 
 To join our email list and receive notifications of new programming, please provide your first and last name as well as your email address on the contact us tab on your left.
 
-[wpv-view name="season-archive-fall-2020-speaker-column-removed" wpvseason="fall-2020"]
+[wpv-view name="season-archive-spring-2021" wpvseason="spring-2020"]

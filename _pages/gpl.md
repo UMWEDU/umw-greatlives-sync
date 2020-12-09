@@ -16,4 +16,8 @@ post_date: 2017-10-13 12:00:08
 
 <span style="font-weight: 400">We invite you to join us at that time for a look at what we believe will be an exciting schedule of topics and speakers for the coming year.</span>
 
+
+
+<a href="https://vimeo.com/452659596">Presidential Great Lives, 2020 JFK</a> from <a href="https://vimeo.com/umwedu">University of Mary Washington</a> on <a href="https://vimeo.com">Vimeo</a>.
+
 [wpv-view name="season archives" wpvseason="2021"]

@@ -26,7 +26,7 @@ Thank you for joining us for our 2020 Great Presidential Lives mini-series! If y
 <h4>Speakers: Nancy Isenberg and Andrew Burstein</h4>
 The two presidents Adams have never been examined together, either as mutually supportive father-and-son historical actors, or as experienced men of the world with interconnected philosophies. History conveniently paints them as out-of-touch, each turned out of office by popularly cast southerners, Jefferson and Jackson; their rejection at the polls is explained in terms of their supposed resistance to a rising democratic spirit. <cite>The Problem of Democracy,</cite> our first major collaboration since <cite>Madison and Jefferson</cite> (2010), elaborates on the Adamses’ constitutional thought in favor of strong institutional checks in government (as a counter to the myth of an all-knowing popular will); their critique of democracy’s tendency to “dress up” select political men as popular celebrities: in their time, Benjamin Franklin, George Washington, Thomas Jefferson, and Andrew Jackson. Their concern about a moneyed oligarchy and their unwillingness to surrender personal political independence to the conforming character of the two-party system make them unique in the nation’s political life. The themes they embraced have clear implications for our times.
 
-[embed]http://vimeo.com/394201815[/embed]
+
 
 &nbsp;
 <h4 style="text-align: center">*****</h4>

@@ -16,6 +16,6 @@ post_date: 2017-10-13 12:00:08
 
 <span style="font-weight: 400">We invite you to join us at that time for a look at what we believe will be an exciting schedule of topics and speakers for the coming year.</span>
 
-[embed]http://vimeo.com/394201815[/embed]
+
 
 [wpv-view name="season archives" wpvseason="2021"]

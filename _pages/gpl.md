@@ -10,7 +10,7 @@ permalink: http://www.umw.edu/greatlives/
 published: true
 post_date: 2017-10-13 12:00:08
 ---
-<img class="alignnone size-full wp-image-60548" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/08/GL2021BG.jpg" alt="The 2021 William B Crawley Lecture Series - Great Lives - Biographical Approaches to History" width="975" height="336" />
+&nbsp;
 
 <span style="font-weight: 400;">We are pleased to announce that the Crawley Great Lives series will return in January 2021 with a schedule of 18 online lectures that will run through mid-March.</span>
 

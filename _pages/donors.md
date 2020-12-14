@@ -23,7 +23,7 @@ post_date: 2014-10-30 16:26:31
  	<li>Synergy Periodontics and Implants</li>
  	<li>Virginia Partners Bank</li>
 </ul>
-<h3><strong>Program Sponsors for 2020</strong></h3>
+<h3><strong>Program Sponsors for 2021</strong></h3>
 <ul>
  	<li>Barlow &amp; Thomas, P.C.</li>
  	<li>Mary Lou Chappell</li>

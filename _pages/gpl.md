@@ -16,6 +16,4 @@ post_date: 2017-10-13 12:00:08
 
 &nbsp;
 
-[embed]https://vimeo.com/489945039[/embed]
-
 [wpv-view name="season archives" wpvseason="2021"]

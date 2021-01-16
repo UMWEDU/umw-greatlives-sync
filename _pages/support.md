@@ -14,9 +14,8 @@ post_date: 2014-10-30 14:51:32
 
 The William B. Crawley Great Lives Lecture Series: Biographical Approaches to History and Culture is open to the public free of charge, due to the continued generosity of program donors. Any and all donations are welcome. Supporters who donate upwards of $100 will be recognized at the following levels:
 <ul>
- 	<li>GOLD PATRON: Gifts of $2,500 or more</li>
- 	<li>SILVER PATRON: Gifts of $1,000 -$2,499</li>
- 	<li>BRONZE PATRON: Gifts of $500-$999</li>
+ 	<li>PRESENTER: Gifts of $1,000 or more</li>
+ 	<li>SUPPORTER: Gifts of $500-$999</li>
  	<li>FRIEND: Gifts of $100-$499</li>
 </ul>
 Patrons and Friends are recognized in lecture programs. In addition, donors at the Patron levels may receive invitations to special receptions.

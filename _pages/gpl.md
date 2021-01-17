@@ -14,7 +14,7 @@ post_date: 2017-10-13 12:00:08
 
 <span style="font-weight: 400">Because of restrictions on public gatherings on campus, the entire series of 18 lectures will be pre-recorded and delivered electronically, through Zoom Webinars, with closed captioning available.</span>
 
-<em>The Zoom link will be available soon! </em>
+<em>Zoom links can be found on the lecture pages below! </em>
 
 <span style="font-weight: 400">Although the presentations will be taped in advance, there will still be a live Q&amp;A session following the online debut of each lecture, in which the speaker will be available to answer questions submitted by audience members. </span>
 

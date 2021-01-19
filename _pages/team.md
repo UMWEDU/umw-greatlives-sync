@@ -39,7 +39,7 @@ Jack Bales, recently retired Reference and Humanities Librarian Emeritus at UMW�
 <strong> </strong>
 <div style="clear: both">
 
-[caption id="attachment_60536" align="alignleft" width="156"]<img class=" wp-image-60536" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/08/KuzemchakHeadShot-274x300.jpg" alt="" width="156" height="171" /> Courtney Kuzemchak[/caption]
+[caption id="attachment_60536" align="alignleft" width="156"]<img class=" wp-image-60536" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2020/08/KuzemchakHeadShot-274x300.jpg" alt="" width="156" height="171" /> <strong>Courtney</strong> <strong>Kuzemchak</strong>[/caption]
 
 Courtney Kuzemchak, Communications Assistant for Great Lives, is back with the Great Lives team after previously serving as a student assistant for the program.  Courtney graduated summa cum laude from UMW in 2017 with a Bachelor of Arts in Historic Preservation. In addition to assisting with Great Lives, she supports the Marine Corps Heritage Foundation as an Events Associate at the National Museum of the Marine Corps.
 

@@ -8,8 +8,10 @@ permalink: http://www.umw.edu/greatlives/faq/
 published: true
 post_date: 2014-10-30 15:05:28
 ---
-<h2>What time do the Great " Presidential" Lives lectures start?</h2>
-The fall 2020 mini-series of lectures on American Presidents will be released every other Tuesday through October 20. Each lecture is pre-recorded and available on demand via the media link.  All lectures will be posted through election day and will then transition to the archive file.
+<h2>What time do the Great Lives 2021 Zoom lectures start?</h2>
+Viewers may join the zoom lecture at 7:15 p.m. on Tuesday and Thursday evenings to view a slideshow about our 2021 season.  At 7:30 p.m., the pre-recorded lecture will begin.  lectures are approximately 50 minutes long and are followed by an audience question and answer segment with our audience.
+
+&nbsp;
 <h2>What constitutes a “Great” life?</h2>
 It is perhaps the most common misconception that “great” equates to “good” or “admirable” in selecting subjects for the Series. The key criteria is not virtue, but rather influence on history or culture in a significant way—for good or (sometimes) ill. (This explains why the Series has occasionally included some fictional characters.)
 <h2>How are subjects chosen?</h2>

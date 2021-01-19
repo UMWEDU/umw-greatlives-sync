@@ -10,7 +10,7 @@ post_date: 2015-08-05 14:37:51
 ---
 This free lecture series brings renowned biographers, a number of them Pulitzer Prize winners, to the Mary Washington campus to explore the diverse lives and achievements of remarkable people.
 
-Lectures are held at 7:30 p.m. Tuesdays and Thursdays, January through April, in George Washington Hall’s Dodd Auditorium. They include question-and-answer sessions and book-signings.
+Lectures are typically held at 7:30 p.m. Tuesdays and Thursdays, January through April, in George Washington Hall’s Dodd Auditorium. They include question-and-answer sessions and book-signings. For the 2021 season, lectures will feature UMW faculty and will be delivered through Zoom and will include an audience Q &amp; A moderated by Bill Crawley.
 <h2>History</h2>
 Beginning in 2004 the University of Mary Washington has offered during each spring semester a public lecture series/academic course titled “Great Lives: Biographical Approaches to History and Culture.” The series began as an academic course offered by the Department of History and American Studies but, drawing on a model employed periodically by the Department since the mid-1970s, and consistent with the University’s commitment to public service, certain lectures were opened to the public free of charge. The response was extraordinary – so great, in fact, that the program had to be moved from its original 200-seat Monroe Hall venue to the 1,200-seat Dodd Auditorium, the largest lecture facility on the Fredericksburg campus.
 

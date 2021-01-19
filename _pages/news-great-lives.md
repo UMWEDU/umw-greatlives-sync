@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2016-10-14 10:17:47
 ---
-<h2>Welcome to our newest program Sponsor!</h2>
+<h2>Welcome to our newest Program Sponsor for 2021!</h2>
 <img class="size-medium wp-image-60707 alignleft" src="http://www.umw.edu/greatlives/wp-content/uploads/sites/8/2021/01/Barlow-and-Thomas-300x116.jpg" alt="" width="300" height="116" />
 <h2></h2>
 <h2></h2>

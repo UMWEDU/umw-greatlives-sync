@@ -14,6 +14,11 @@ post_date: 2016-10-14 10:17:47
 <h2></h2>
 <h2></h2>
 <h2></h2>
+&nbsp;
+<h2>Introducing: Great "Presidential" Lives</h2>
+The fall 2020 mini-series of lectures on American Presidents will be released every other Tuesday through October 20. Each lecture is pre-recorded and available on demand via the media link.  All lectures will be posted through election day and will then transition to the archive file.
+
+&nbsp;
 <h2><strong>Great Lives lectures have been cancelled through April 6.</strong></h2>
 <div class="site-container">
 <div class="site-inner">
